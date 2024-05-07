@@ -1,4 +1,5 @@
-// Algoritmo de ordenamineto.
+// Corregir el eliminar (que se pueda eliminar una posicón del array en específico).
+// Agregar la opción de cargar un archivo txt y que lea los elementos separados por espacios dentro de archivo de 5000 elementos
 
 #include <iostream>
 #include <vector>
