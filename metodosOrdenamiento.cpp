@@ -1,3 +1,5 @@
+// Algoritmo de ordenamineto.
+
 #include <iostream>
 #include <vector>
 #include <sstream>
