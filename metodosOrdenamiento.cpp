@@ -1,5 +1,7 @@
 // Corregir el eliminar (que se pueda eliminar una posicón del array en específico).
-// Agregar la opción de cargar un archivo txt y que lea los elementos separados por espacios dentro de archivo de 5000 elementos
+// Agrear un contado de iteraciones para cada metodo
+// Agregar las validaciones para que slo reciba números tanto normal como en el txt. 
+// Agregar la opción de cargar un archivo txt y que lea los elementos separados por espacios dentro de archivo de 5000 elementos que puede elegir cuaquiera hasta el ultimo dato a ordenar
 
 #include <iostream>
 #include <vector>
